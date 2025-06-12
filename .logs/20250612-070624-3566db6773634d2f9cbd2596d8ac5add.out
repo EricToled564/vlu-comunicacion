@@ -1,0 +1,37 @@
+yarn run v1.22.22
+$ next dev
+  ▲ Next.js 14.2.28
+  - Local:        http://localhost:3000
+  - Environments: .env
+  - Experiments (use with caution):
+    · outputFileTracingRoot
+
+ ✓ Starting...
+Attention: Next.js now collects completely anonymous telemetry regarding usage.
+This information is used to shape Next.js' roadmap and prioritize features.
+You can learn more, including how to opt-out if you'd not like to participate in this anonymous program, by visiting the following URL:
+https://nextjs.org/telemetry
+
+ ✓ Ready in 3.1s
+ ○ Compiling / ...
+ ✓ Compiled / in 7.1s (1230 modules)
+ GET / 200 in 7650ms
+ ✓ Compiled in 543ms (618 modules)
+ ○ Compiling /servicios ...
+ ✓ Compiled /servicios in 2.9s (1377 modules)
+ GET / 200 in 3167ms
+ GET /contacto 200 in 3171ms
+ GET /campanas 200 in 3176ms
+ GET /servicios 200 in 3176ms
+ GET /servicios 200 in 71ms
+ GET /contacto 200 in 74ms
+ GET /campanas 200 in 74ms
+ GET / 200 in 76ms
+ GET / 200 in 27ms
+ GET /servicios 200 in 31ms
+ GET /campanas 200 in 28ms
+ GET /contacto 200 in 27ms
+ ✓ Compiled /api/contact in 331ms (722 modules)
+ GET /api/contact 200 in 471ms
+ ✓ Compiled in 347ms (1408 modules)
+[?25h
